@@ -1,6 +1,6 @@
 # Powershell Multi-Threaded TCP Port Scanner
 
-A simple multithreaded Powershell TCP port scanner
+A fast simple multithreaded Powershell TCP port scanner
 
 To run edit the following lines in the script:
 
@@ -17,5 +17,7 @@ Set the $MaxThreads count to the number of threads to use to scan
 Execute within powershell
 
 ```powershell
-
+PS>.\tcp-port-scan.ps1
 ```
+
+The script will output all open TCP ports to screen.
