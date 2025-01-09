@@ -21,5 +21,7 @@ PS>.\tcp-port-scan.ps1
 ```
 
 The script will output all open TCP ports to screen:
+
+
 ![image](https://github.com/user-attachments/assets/5c5a977b-1296-4408-8c9d-8655ad8dc838)
 
